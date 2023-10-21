@@ -1,0 +1,38 @@
+-----------------------Java Variables-------------------------
+===============================================================
+
+#. Variables are containers for storing data values.
+
+In Java, there are different types of variables, for example:
+                    
+                
+String - stores text, such as "Hello". String values are surrounded by double quotes
+int - stores integers (whole numbers), without decimals, such as 123 or -123
+float - stores floating point numbers, with decimals, such as 19.99 or -19.99
+char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
+boolean - stores values with two states: true or false
+
+
+==============================================================
+----------------Declaring (Creating) Variables----------------
+
+#. To create a variable, you must specify the type and assign it a value:
+
+//////// Syntax /////////
+------------------------------
+| type variableName = value; |
+------------------------------
+
+===============================================================
+There are three types of variables in Java: 
+    local, instance and static.
+=======================================================================
+There are two types of data types in Java: primitive and non-primitive.
+========================================================================
+
+
+
+Resources : 
+https://www.w3schools.com/java/java_variables.asp
+https://www.javatpoint.com/java-variables
+https://www.tutorialspoint.com/java/java_variable_types.htm
