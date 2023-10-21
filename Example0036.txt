@@ -1,0 +1,13 @@
+--------------------------------------1. Local Variables-----------------------------------------
+
+1. Local variables are declared in methods, constructors, or blocks.
+
+2. Local variables are created when the method, constructor or block is entered and the variable will be destroyed once it exits the method, constructor, or block.
+
+3. Access modifiers cannot be used for local variables.
+
+4. Local variables are visible only within the declared method, constructor, or block.
+
+5. Local variables are implemented at stack level internally.
+
+6. There is no default value for local variables, so local variables should be declared and an initial value should be assigned before the first use.
