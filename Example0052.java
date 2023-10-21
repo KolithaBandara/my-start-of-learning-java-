@@ -1,4 +1,4 @@
-class Example{
+class Example0052{
 	public static  void main(String []args){
 		int x,y,z; //declaring same data type variabls in one single line
 		x=100; //initializing
