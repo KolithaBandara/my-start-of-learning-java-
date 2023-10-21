@@ -1,4 +1,4 @@
-class Example{
+class Example0043{
 	public static  void main(String []args){
 		int x; //declaring
 		System.out.println(x); //Illegal
