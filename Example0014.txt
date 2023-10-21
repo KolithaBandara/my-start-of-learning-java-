@@ -1,0 +1,10 @@
+Types of Literals In Java
+
+  *Literals in Java can be classified into six types, as below:
+
+    1. Integral Literals
+    2. Floating-point Literals
+    3. Char Literals
+    4. String Literals
+    5. Boolean Literals
+    6. Null Literals
