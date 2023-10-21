@@ -1,0 +1,28 @@
+-------------------------------------2. Instance Variables-------------------------------------
+
+1. Instance variables are declared in a class, but outside a method, constructor or any block.
+
+2. When a space is allocated for an object in the heap, a slot for each instance variable value is created.
+
+3. Instance variables are created when an object is created with the use of the keyword 'new' and destroyed when the object is destroyed.
+
+4. Instance variables hold values that must be referenced by more than one method, constructor or block, or essential parts of an object's state that must be present throughout the class.
+
+5. Instance variables can be declared in class level before or after use.
+
+6. Access modifiers can be given for instance variables.
+
+7. The instance variables are visible for all methods, constructors and block in the class.
+   Normally, it is recommended to make these variables private (access level). 
+  However, visibility for subclasses can be given for these variables with the use of access modifiers.
+
+8. Instance variables have default values. 
+   For numbers, the default value is 0, for Booleans it is false, and for object references it is null. 
+   Values can be assigned during the declaration or within the constructor.
+
+9. Instance variables can be accessed directly by calling the variable name inside the class.
+   However, within static methods (when instance variables are given accessibility), they should be called using the fully qualified name. 
+   ObjectReference.VariableName.
+
+Resources;
+https://www.tutorialspoint.com/java/java_variable_types.htm
