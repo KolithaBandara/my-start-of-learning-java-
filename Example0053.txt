@@ -1,0 +1,15 @@
+---------------String Concatenation by + (String concatenation) operator--------------
+
+Java String concatenation operator (+) is used to add strings. For Example:
+
+Ex:
+class TestStringConcatenation1{  
+ public static void main(String args[]){  
+   String s="Sachin"+" Tendulkar";  
+   System.out.println(s);//Sachin Tendulkar  
+ }  
+}  
+
+
+Resources:
+https://www.javatpoint.com/string-concatenation-in-java
