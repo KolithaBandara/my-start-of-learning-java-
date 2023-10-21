@@ -1,0 +1,10 @@
+--------------Here is the list of special characters in Java:-------------------
+
+\t – tab
+\b – backspace (a step backward in the text or deletion of a single character)
+\n – new line
+\r – carriage return
+\f – form feed
+\’ – single quote
+\” – double quote
+\\ – backslash
