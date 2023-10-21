@@ -1,0 +1,67 @@
+-------------------------------------Primitive Data Types----------------------------------
+There are eight primitive datatypes supported by Java. Primitive datatypes are predefined by the language and named by a keyword. 
+Let us now look into the eight primitive data types in detail.
+
+======= byte ============
+1. Byte data type is an 8-bit signed two's complement integer
+2. Minimum value is -128 (-2^7)
+3. Maximum value is 127 (inclusive)(2^7 -1)
+4. Default value is 0
+5. Byte data type is used to save space in large arrays, mainly in place of integers, since a byte is four times smaller than an integer.
+6. Example: byte a = 100, byte b = -50
+
+======= short =======
+1. Short data type is a 16-bit signed two's complement integer
+2. Minimum value is -32,768 (-2^15)
+3. Maximum value is 32,767 (inclusive) (2^15 -1)
+4. Short data type can also be used to save memory as byte data type. A short is 2 times smaller than an integer
+5. Default value is 0.
+6. Example: short s = 10000, short r = -20000
+
+======= int =======
+1. Int data type is a 32-bit signed two's complement integer.
+2. Minimum value is - 2,147,483,648 (-2^31)
+3. Maximum value is 2,147,483,647(inclusive) (2^31 -1)
+4. Integer is generally used as the default data type for integral values unless there is a concern about memory.
+5. The default value is 0
+6. Example: int a = 100000, int b = -200000
+
+======= long =======
+1. Long data type is a 64-bit signed two's complement integer
+2. Minimum value is -9,223,372,036,854,775,808(-2^63)
+3. Maximum value is 9,223,372,036,854,775,807 (inclusive)(2^63 -1)
+4. This type is used when a wider range than int is needed
+5. Default value is 0L
+6. Example: long a = 100000L, long b = -200000L
+
+======= float =======
+1. Float data type is a single-precision 32-bit IEEE 754 floating point
+2. Float is mainly used to save memory in large arrays of floating point numbers
+3. Default value is 0.0f
+4. Float data type is never used for precise values such as currency
+5. Example: float f1 = 234.5f
+
+======= double =======
+1. double data type is a double-precision 64-bit IEEE 754 floating point
+2. This data type is generally used as the default data type for decimal values, generally the default choice
+3. Double data type should never be used for precise values such as currency
+4. Default value is 0.0d
+5. Example: double d1 = 123.4
+
+======= boolean =======
+1. boolean data type represents one bit of information
+2. There are only two possible values: true and false
+3. This data type is used for simple flags that track true/false conditions
+4. Default value is false
+5. Example: boolean one = true
+
+======= char =======
+1. char data type is a single 16-bit Unicode character
+2. Minimum value is '\u0000' (or 0)
+3. Maximum value is '\uffff' (or 65,535 inclusive)
+4. Char data type is used to store any character
+5. Example: char letterA = 'A'
+
+Resources:
+https://www.tutorialspoint.com/java/java_basic_datatypes.htm
+
