@@ -1,4 +1,4 @@
-class Example{
+class Example0051{
 	public static  void main(String []args){
 		int x=100; //declaring and initializing
 		int y=200; //declaring and initializing
