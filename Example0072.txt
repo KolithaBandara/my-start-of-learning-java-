@@ -1,0 +1,6 @@
+---------------------------------------Java Identifiers------------------------------------
+
+The only allowed characters for identifiers are
+all alphanumeric characters([A-Z],[a-z],[0-9]), '$'(dollar sign) and '_' (underscore). 
+For example “geek@” is not a valid java identifier as it contain '@' special character. 
+Identifiers should not start with digits([0-9]).
