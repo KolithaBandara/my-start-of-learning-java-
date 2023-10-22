@@ -1,0 +1,32 @@
+--------------------------------------Getting Keyboard Input----------------------------------------
+
+To get keyboard input in Java, you can use the Scanner class from the java.util package.
+The Scanner class provides methods for reading input from the keyboard and parsing it into different data types (such as int, double, etc.).
+
+Here is an example of how you can use the Scanner class to get keyboard input in Java:
+
+Scanner input = new Scanner(System.in);
+System.out.print("Enter a number: ");
+int num = input.nextInt();
+System.out.println("You entered: " + num);
+
+
+In this example, the Scanner class is used to read an integer from the keyboard. 
+The nextInt() method reads the next token of input as an int and returns it.
+
+You can also use the nextLine() method to read a whole line of input as a string.
+
+For example:
+
+Scanner input = new Scanner(System.in);
+System.out.print("Enter a line of text: ");
+String line = input.nextLine();
+System.out.println("You entered: " + line);
+
+This code reads a whole line of text from the keyboard and stores it in the line variable.
+
+Keep in mind that the Scanner class reads input in a blocking manner, which means that the program will wait for the user to enter input before continuing.
+
+Resources;
+https://www.w3docs.com/snippets/java/getting-keyboard-input.html#:~:text=To%20get%20keyboard%20input%20in,%2C%20double%20%2C%20etc.).
+
