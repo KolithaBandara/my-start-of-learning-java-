@@ -1,0 +1,14 @@
+----------------------------Integer Literals------------------------------
+
+Integer literals in Java are whole numbers without any fractional or decimal component. 
+These can be expressed in four number systems:
+decimal (base 10), hexadecimal (base 16), octal (base 8), and binary (base 2)
+
+Examples;
+    int decVal = 100; // Decimal literal
+    int hexVal = 0x64; // Hexadecimal literal
+    int octVal = 0144; // Octal literal
+    int binVal = 0b1100100; // Binary literal
+
+Resources;
+https://www.mygreatlearning.com/blog/literals-in-java/#:~:text=Integer%20literals%20in%20Java%20are,and%20binary%20(base%202).
