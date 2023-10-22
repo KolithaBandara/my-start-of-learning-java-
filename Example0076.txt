@@ -1,0 +1,4 @@
+------------------------------------ conversion & casting-----------------------------
+
+Resouces;
+https://www.geeksforgeeks.org/difference-between-type-casting-and-type-conversion/
