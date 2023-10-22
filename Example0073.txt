@@ -1,0 +1,5 @@
+---------------------------------------------------Data Represent & Computer Memory-----------------------------------
+
+Resources;
+https://www.cs.cornell.edu/courses/cs2112/2015fa/recitations/recitation.html?id=02java_rep#:~:text=Therefore%2C%20a%20byte%20containing%208,232%2D1%20%3D%204294967295.
+(this is a best resource to learn computer mwmory)
