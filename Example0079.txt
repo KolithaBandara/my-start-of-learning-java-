@@ -1,4 +1,4 @@
--------------------------------------Java Basic Arithmetic Operators--------------------------------
+-------------------------------------Java Basic Operators--------------------------------
 
 Java provides a rich set of operators to manipulate variables. We can divide all the Java operators into the following groups ;
 
