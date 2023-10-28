@@ -1,0 +1,12 @@
+1) If Statement:
+
+In Java, the "if" statement is used to evaluate a condition. 
+The control of the program is diverted depending upon the specific condition.
+The condition of the If statement gives a Boolean value, either true or false. 
+In Java, there are four types of if-statements given below.
+
+
+1. Simple if statement
+2. if-else statement
+3. if-else-if ladder
+4. Nested if-statement
