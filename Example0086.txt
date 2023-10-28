@@ -1,0 +1,10 @@
+------------------------------------------- Post-increment & Past-increment -------------------------------------------
+
+Increment operator is used to increment a value by 1. There are two varieties of increment operator: 
+
+1. Post-Increment: Value is first used for computing the result and then incremented.
+2. Pre-Increment: Value is incremented first and then the result is computed.
+
+
+Resources;
+https://www.geeksforgeeks.org/interesting-facts-increment-decrement-operators-java/
